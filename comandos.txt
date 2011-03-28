@@ -1,0 +1,25 @@
+Comandos de python
+
+git init -->  para crear un nuevo repositorio
+
+git show-branch -->para ver en que rama estas.
+
+git log--> para ver un registro de lo que ha sucedido.
+
+git checkout y git branch--> para cambiar de rama .
+
+git add -->para manejar el archivo indice.
+
+git diff y git status-->para ver cambios realizados y el estado actual.
+
+git commit --> para avanzar en la misma rama.
+
+git reset y git checkout (con parametros de direccion)--> para deshacer cambios.
+
+git merge--> para fusionar ramas locales.
+
+git rebase--> para mantener topic branches.
+
+git tag --> para etiquetar un punto conocido.
+
+git clone  --> Clona un repositorio en un directorio nuevo.
